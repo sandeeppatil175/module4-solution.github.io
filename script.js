@@ -1,14 +1,14 @@
 var names = new Array();
-names[0]="frank";
+names[0]="Yaakov";
 names[1]="John";
-names[2]="Laura";
+names[2]="Jen";
 names[3]="jason";
 names[4]="paul";
-names[5]="Yaakov";
-names[6]="Jen";
+names[5]="frank";
+names[6]="larry";
 names[7]="paula";
-names[8]="jim";
-names[9]="larry";
+names[8]="laura";
+names[9]="jim";
 
 
 // console.log(names[1].charAt(2));
